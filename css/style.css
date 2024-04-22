@@ -54,3 +54,24 @@ ul{
     list-style-position: inside;
 }
 
+table{
+    border-collapse: collapse;
+    border: 1px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+thead{
+    background-color: #20A9E5;
+    color: white;
+    text-align: left;
+}
+.cellaTesta{
+    width: 25%;
+}
+
+.primaRigaTab, tfoot tr{
+    background-color: #B1E5F2;
+}
+
+
