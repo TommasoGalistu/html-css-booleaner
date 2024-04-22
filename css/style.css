@@ -14,7 +14,7 @@ header{
 div{
     width: 99%;
     margin: auto;
-    color: black;
+    
     
 }
 
@@ -48,5 +48,9 @@ h1{
 p{
     margin-top: 1rem;
     margin-bottom: 1rem;
+}
+
+ul{
+    list-style-position: inside;
 }
 
