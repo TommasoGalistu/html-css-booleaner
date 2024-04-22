@@ -14,6 +14,7 @@ header{
 div{
     width: 99%;
     margin: auto;
+    color: black;
     
 }
 
@@ -21,5 +22,31 @@ div{
     width: 13rem;
     position: absolute;
     bottom: 0.4rem;
+}
+
+h1{
+    font-size: 2.5rem;
+    margin-top: 1rem;
+}
+
+.mainPart .linkersWord{
+    color: #74CAEF;
+}
+
+.greyWord{
+    color: #8F8F8F;
+}
+
+.mainPart img{
+    margin-top: 1rem;
+}
+
+.description{
+    font-size: 0,1rem;
+}
+
+p{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
