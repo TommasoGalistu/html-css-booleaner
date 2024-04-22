@@ -1,5 +1,25 @@
 *{
     margin: 0;
-    padding: 0;
+    padding: 0;  
+}
+
+header{
+    background-image: url("../img/pattern.png");
+    background-color: #4EA0FF;
+    height: 11rem;
+    width: 100%;
+    position: relative;
+}
+
+div{
+    width: 99%;
+    margin: auto;
     
 }
+
+#logoBool{
+    width: 13rem;
+    position: absolute;
+    bottom: 0.4rem;
+}
+
