@@ -37,7 +37,7 @@ h1{
     color: #8F8F8F;
 }
 
-.mainPart img{
+.mainPart img, footer img{
     margin-top: 1rem;
 }
 
@@ -48,6 +48,10 @@ h1{
 p{
     margin-top: 1rem;
     margin-bottom: 1rem;
+}
+
+p span{
+    background-color: #FFFF00;
 }
 
 ul{
@@ -72,6 +76,20 @@ thead{
 
 .primaRigaTab, tfoot tr{
     background-color: #B1E5F2;
+}
+
+footer .greyWord{
+    font-size: 1.5rem;
+}
+
+footer strong.descImg{
+    position: absolute;
+    color: white;
+    font-size: 1.5rem;
+    margin-top: 1.7rem;
+    margin-left: 1rem;
+    
+    
 }
 
 
